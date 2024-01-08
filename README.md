@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second-year student at Sheridan College, pursuing a degree in the field of Computer Science with a focus on software development and network engineering.<br><br>🔭 I’m currently working on Java Enterprise Development.<br>🌱 I’m currently learning MongoDB and Python.<br>⚡ Fun fact: I am a blue-collar worker who switched to tech!
+I am currently a second-year student at Sheridan College, pursuing a degree in the field of Computer Science with a focus on software engineering and web development.<br><br>🔭 I’m currently working on Java Enterprise Development.<br>🌱 I’m currently learning MongoDB and Python.<br>⚡ Fun fact: I am a blue-collar worker who switched to tech!
 
 
 ## 🌐 Socials:
