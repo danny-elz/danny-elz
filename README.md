@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a second-year student at Sheridan College, pursuing a degree in the field of Computer Science with a focus on software engineering and web development.<br><br>🔭 I’m currently working on Java Enterprise Development.<br>🌱 I’m currently learning MongoDB and Python.<br>⚡ Fun fact: I am a blue-collar worker who switched to tech!
+I am a solution oriented Software Developer, lifelong learner, and fitness enthusiast with a background in software development and network engineering. I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
 
 ## 🌐 Socials:
